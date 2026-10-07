@@ -73,5 +73,5 @@ $("#sendRecovery").addEventListener("click", () => {
   const msg = encodeURIComponent(
     `Halo TIKI, saya ingin bantuan recovery akun Roblox.\nUsername: ${username}\nMasalah: ${problem}\nKronologi: ${story}`
   );
-  window.open(`https://wa.me/6283852538743?text=${msg}`, "_blank", "noopener,noreferrer");
+  window.open(`https://wa.me/62895328044863?text=${msg}`, "_blank", "noopener,noreferrer");
 });
